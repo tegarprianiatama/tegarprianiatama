@@ -15,7 +15,7 @@ Joined Github **4** years ago.
 - 🛠 &nbsp; I’m currently working with Laravel, VueJS, <br /> MySQL, PostgreSQL, PHP, Javascript, Typescript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/tegarprianiatama).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/tegarprianiatama/issues)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/tegarprianiatama/tegarprianiatama/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: tegarprianiatama@gmail.com.
 
